@@ -21,6 +21,8 @@ To learn more, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
+
+
 以下のコードは、React と TailwindCSS を使用して、問い合わせ管理と会員登録フォームを提供するシングルページアプリケーション (SPA) の主要コンポーネントです。このコードの機能と各部分の詳細を順を追って解説します。
 
 ```jsx
@@ -690,10 +692,3 @@ React フックを使用して、状態を管理します。`inquiries` は問�
 
    export default MainComponent;
    ```
-
-
-メニューや問い合わせ一覧、会員登録フォームを含むメインの UI をレンダリングしています。
-
-
-このコードは、React と TailwindCSS を使用してシンプルな問い合わせ管理システムを提供します。各問い合わせのステータス管理や新規問い合わせの追加機能を含んでおり、状態管理のための React フックを活用しています。
-
